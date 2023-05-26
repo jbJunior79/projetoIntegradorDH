@@ -1,0 +1,6 @@
+id,nome,endereco,bairro,cep,cidade,estado,email,createdAt,updatedAt
+1,fabricio,"liberio rosa","santa izabel",12234566,hortolandia,sp,benato@oitmail.com,"2023-05-25 21:34:52","2023-05-25 21:34:52"
+2,"Fabricio Benato","125 Rua Libério Rosa","Núcleo Santa Isabel",13185,Hortolândia,"São Paulo",benato_fabricio@hotmail.com,"2023-05-25 21:37:08","2023-05-25 21:37:08"
+3,"Aline Rocha da Silva","Rua Benedito Leite 84B","santa izabel",13185483,Hortolandia,"São Paulo",jjhghfhjvjhvjjj,"2023-05-25 21:39:51","2023-05-25 21:39:51"
+4,jose,"rua campinas",eulina,298765,campinas,sp,jose@hotmail.com,"2023-05-25 23:21:16","2023-05-25 23:21:16"
+5,"Fabricio Benato","Rua Vitória",sumare,13177,Sumaré,"São Paulo",suportemundopro@gmail.com,"2023-05-25 23:34:03","2023-05-25 23:34:03"
